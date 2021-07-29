@@ -1,0 +1,43 @@
+Menu optional
+
+Background Color: 
+Padding, Margin = Relative Equal
+
+Purchase: Modal Open One line Sentence
+
+Feature Bikes 
+Underline Optional 
+
+Ekta image ke Gray Scale korte hobe 2 Ta
+
+https://github.com/programming-hero-web-course2/honda-cbr-bootstrap-assignment-sushantagupta007
+
+
+Latest New Optional 
+
+Happy Clients: Compulsory
+
+FAQ Two Color Compulsory 
+
+Question clicked
+
+Footer optional 
+
+Responsive: Bootstrap Mobile Device
+
+Iphone, Small 
+
+Override, Some CSS
+Bootstrap +CSS
+
+Bonus: 
+Two Different Sections
+HTML 5 section
+Indentaion 
+Custom Class
+
+
+
+
+
+
