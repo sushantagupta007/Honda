@@ -10,7 +10,6 @@ body{
     /* NavBar */
     header{
         background: #264653;
-        max-width:100%;
     }
     /* AddSection */
     #headerAddDesTitle{
@@ -48,9 +47,7 @@ body{
     }
 /* Header CSS End */
 /* Main CSS Start */
-main{
-    max-width:100%;
-}
+
     /* featureBike */
     .biketitle{
         font-family: 'Poppins';
@@ -188,7 +185,6 @@ main{
 /* Footer CSS */
     #footer{
         background:#0B0D17;
-        max-width: 100%;
     }
     .footerLink li{
         list-style-type:none;
